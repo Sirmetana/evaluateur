@@ -1,5 +1,4 @@
 package demos.metier;
-import java.util.*;
 
 public class EvaluateurNiveau {
 	
